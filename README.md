@@ -1,6 +1,4 @@
-# Simple To-Do App
-
-![App Screenshot](screenshot.png)
+# To-Do-List Application
 
 ## Table of Contents
 
