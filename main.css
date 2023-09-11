@@ -225,6 +225,16 @@ input:checked~.bubble::after {
         margin-top: 0.5rem;
         width: auto;
     }
+
+    .todo-item .actions .edit img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .todo-item .actions .delete img {
+        width: 20px;
+        height: 20px;
+    }
 }
 
 
