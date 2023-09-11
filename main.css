@@ -241,13 +241,13 @@ input:checked~.bubble::after {
 }
 
 .todo-item .actions .edit img {
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
 }
 
 .todo-item .actions .delete img {
-    width: 30px;
-    height: 30px;
+    width: 15px;
+    height: 15px;
 }
 
 .todo-item.done .todo-content input {
